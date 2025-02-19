@@ -3,6 +3,6 @@ deletes: []
 downloadPrefix: "https://raw.githubusercontent.com/BND10706/thj-patcher-files/main/files/"
 downloads:
   - name: "test_file.txt"
-    md5: "ed076287532e86365e841e92bfc50d8c"
+    md5: "7d0df85a3a30857eef47291e40981379"
     date: "2024-03-21"
     size: 12
